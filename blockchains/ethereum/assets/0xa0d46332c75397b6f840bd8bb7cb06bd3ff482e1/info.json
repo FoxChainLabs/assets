@@ -1,0 +1,11 @@
+{
+    "name": "FOXCHAIN",
+    "type": "ERC20",
+    "symbol": "FOX",
+    "decimals": 18,
+    "website": "https://foxchain.app",
+    "description": "Foxchain Blockchain is a next-generation blockchain platform that offers a fast, secure, and highly scalable",
+    "explorer": "https://etherscan.io/token/0xa0d46332c75397b6f840bd8bb7cb06bd3ff482e1",
+    "status": "active",
+    "id": "0xa0d46332c75397b6f840bd8bb7cb06bd3ff482e1"
+}
